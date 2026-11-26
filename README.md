@@ -4,6 +4,10 @@
 
 EcoScan lets you take a photo of any product and instantly learn how environmentally sustainable it is — with a score out of 10, a detailed breakdown of materials, manufacturing, durability, recyclability, and packaging, plus actionable eco-friendly alternatives you can buy today.
 
+**Link to website
+https://eco-scan-ftmhv9rwo-urooj7.vercel.app/
+(note: website may have issues analyzing image, please follow instructions below to run it locally if issues arise)
+
 ---
 
 ## ✨ What It Does
